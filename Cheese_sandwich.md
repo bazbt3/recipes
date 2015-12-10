@@ -1,12 +1,14 @@
 ## Cheese sandwich   
 (A bit spicy.)
 
+
 Ingredients:
 
 * Cheddar cheese,
 * Sliced white squishy bread,
 * Garlic mayonnaise\*,
 * Chilli garlic sauce\*.
+
 
 Preparation:
 
