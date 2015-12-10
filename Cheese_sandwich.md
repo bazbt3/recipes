@@ -21,5 +21,6 @@
 7. Find a bib or at least wet wipes, eating this sandwich can be a messy experience!
 8. Enjoy.
 
+---- 
 
 \*Best applied from squeezy bottles.
