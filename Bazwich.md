@@ -15,12 +15,12 @@ Ingredients, heavily UK-biased: (with rest-of-the-world explanations parenthesis
 
 Method:
 
-* Spread the spreadable stuff on alternating slices of bread,
-* Place the non-spreadable stuff on one slice and cover with the other,
-* Slice in half... side- or length-ways, or even diagonally if you're so inclined,
-* Place on a plate with potato crisps (US: chips),
-* Er...
-* Eat!
+1. Spread the spreadable stuff on alternating slices of bread,
+2. Place the non-spreadable stuff on one slice and cover with the other,
+3. Slice in half... side- or length-ways, or even diagonally if you're so inclined,
+4. Place on a plate with potato crisps (US: chips),
+5. Er...
+6. Eat!
 
 Have you booked your place at the local A&E (US: ER)?
 
