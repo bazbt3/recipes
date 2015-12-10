@@ -2,7 +2,7 @@
 (A bit spicy.)
 
 
-Ingredients:
+### Ingredients:
 
 * Cheddar cheese,
 * Sliced white squishy bread,
@@ -10,7 +10,7 @@ Ingredients:
 * Chilli garlic sauce\*.
 
 
-Preparation:
+### Preparation:
 
 1. Either grate or thinly slice the cheese,
 2. Lay out the sliced bread,
