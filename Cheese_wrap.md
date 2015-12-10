@@ -5,7 +5,7 @@
 * Tortilla wraps,
 * Cheddar cheese,
 * Tiny tomatoes,
-* Garlic mayonnaise,
+* Garlic mayonnaise\*,
 
 ### Preparation:
 
@@ -17,8 +17,8 @@
 6. Squirt some garlic mayonnaise over it all\*, taking care to put some where the tortilla wraps over,
 7. Wrap over securely,
 8. Microwave for a maximum of 30 seconds (850W.)
-9. Enjoy.
+9. Enjoy whilst being aware it'll burn your face off if you eat the wrap straight from the microwave! 
 
 ---- 
 
-\*A squeezy bottle is best for this.
+\*Best applied from squeezy bottles.
