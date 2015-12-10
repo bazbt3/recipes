@@ -17,7 +17,7 @@ Preparation:
 3. Distribute the garlic mayo evenly across one slice,
 4. Distribute the chilli garlic sauce - thinly -  evenly across the other slice,
 5. Lay the cheese carefully over the mayo,
-6. Lay the chilli garlic sauce carefully over the other slice,
+6. Lay the chilli garlic sauce-laden slice carefully over the other slice,
 7. Find a bib or at least wet wipes, eating this sandwich can be a messy experience!
 8. Enjoy.
 
