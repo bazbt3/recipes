@@ -1,7 +1,8 @@
 ## The Bazwich    
 (A sandwich *not* for the masses.)
 
-Ingredients, heavily UK-biased: (with rest-of-the-world explanations parenthesised):
+#### Ingredients:    
+Heavily UK-biased: (with rest-of-the-world explanations parenthesised):
 
 * White bread, preferably Warburton's medium sliced;
 * Butter, or equivalent low-calorie spread;
@@ -13,7 +14,7 @@ Ingredients, heavily UK-biased: (with rest-of-the-world explanations parenthesis
 * Tinned ham, the firm stuff, not too-heavily processed.
 * The more adventurous soul may wish to add lazy garlic, but thinly.
 
-Method:
+#### Method:
 
 1. Spread the spreadable stuff on alternating slices of bread,
 2. Place the non-spreadable stuff on one slice and cover with the other,
