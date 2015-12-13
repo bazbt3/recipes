@@ -1,5 +1,5 @@
 ## Formatting    
-(The only help you'll need if you're here - aside from choosing representative filenames, using an .md suffix, and using Github-flavoured Markdown throughout.
+(The only help you'll need if you're here - aside from choosing representative filenames, using an .md suffix, and using Github-flavoured Markdown throughout.)
 
 Please use the following 'style' throughout, e.g. - copy the text below then paste into your new file:
 
