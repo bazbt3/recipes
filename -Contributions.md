@@ -26,6 +26,6 @@ Please use the following 'style' throughout, e.g. - copy the text below then pas
 
 \* Escaped footnote 1.
 \** Escaped footnote 2.
+```
 
 Note: Footnotes should be avoided if at all possible.
-```
