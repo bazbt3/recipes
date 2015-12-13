@@ -6,6 +6,11 @@ Food. That's it.
 
 Don't expect the mainstream to intrude here.
 
+---- 
+
 This is primarily a test to see how well github could be used for recipes.
 
-As-of 2015-12-12 the 'master' branch is a flat listing whereas the new 'Categories' branch is loosely-arranged by type-of-food or preparation  categories.
+### 2015-12-12:
+
+* 'master' branch: a flat listing, whereas the
+* 'Categories' branch is loosely-arranged by type-of-food.
