@@ -8,6 +8,12 @@ Don't expect the mainstream to intrude here.
 
 ---- 
 
+### Contributions;
+
+[Edward Vielmetti](https://github.com/vielmetti) — see his [sandwich repository](https://github.com/vielmetti/sandwich) for more.
+
+---- 
+
 <br>
 
 This is primarily a test to see how well github could be used for recipes.
