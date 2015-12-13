@@ -8,7 +8,7 @@ Don't expect the mainstream to intrude here.
 
 ---- 
 
-### Contributions;
+### Contributions:
 
 [Edward Vielmetti](https://github.com/vielmetti) — see his [sandwich repository](https://github.com/vielmetti/sandwich) for more.
 
