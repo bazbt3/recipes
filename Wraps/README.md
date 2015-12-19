@@ -3,4 +3,4 @@
 ## Wraps.
 
 **Contents:**    
-* [Cheesy wrap](Cheesy_wrap.md)
+* [Cheese wrap](Cheese_wrap.md)
