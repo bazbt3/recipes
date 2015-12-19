@@ -11,13 +11,3 @@ Don't expect the mainstream to intrude here.
 ### Contributions:
 
 [Edward Vielmetti](https://github.com/vielmetti) — see his [sandwich repository](https://github.com/vielmetti/sandwich) for more.
-
----- 
-
-<br>
-
-This is primarily a test to see how well github could be used for recipes.
-
-**2015-12-12:**    
-* 'master' branch: a flat listing, whereas the
-* 'Categories' branch is loosely-arranged by type-of-food.
