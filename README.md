@@ -1,3 +1,7 @@
+# Branch deprecated in favour of 'Categories_1.0'.
+
+---- 
+
 ## Recipes
 
 A tiny selection of easy- and quick-to-assemble recipes, with easy-to-find ingredients. 
