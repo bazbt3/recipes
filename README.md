@@ -3,9 +3,9 @@ A tiny selection of easy- and quick-to-assemble food recipes, with easy-to-find 
 
 The categories:    
 * [Fish](/Fish/)
-* [Pies](/Pies/README.md)
-* [Sandwiches](/Sandwiches/README.md)
-* [Wraps](/Wraps/README.md)
+* [Pies](/Pies/)
+* [Sandwiches](/Sandwiches/)
+* [Wraps](/Wraps/)
 
 ---- 
 
