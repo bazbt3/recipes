@@ -11,3 +11,9 @@ The categories:
 
 ### Contributions:    
 [Edward Vielmetti](https://github.com/vielmetti) — see his [sandwich repository](https://github.com/vielmetti/sandwich) for more.
+
+---- 
+
+<br>
+
+This is primarily a test to see whether github could be used for recipes.
