@@ -1,5 +1,3 @@
-## A recipe folder - this one containing…
-
 ## Pies.
 
 **Contents:**    
