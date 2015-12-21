@@ -3,6 +3,7 @@ A tiny selection of easy- and quick-to-assemble food recipes, with easy-to-find 
 
 The categories:    
 * [Fish](/Fish/)
+* [Pancakes](/Pancakes/)
 * [Pies](/Pies/)
 * [Sandwiches](/Sandwiches/)
 * [Wraps](/Wraps/)
