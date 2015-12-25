@@ -13,7 +13,7 @@
 1. Preheat the oven to 400°F (around 200°C),
 2. Toss with the olive oil,
 3. Spread on a baking sheet,
-4. Roast for 30-40 minutes, turning once or twice,
+4. Roast for 30-40 minutes, stirring once or twice,
 5. Salt & serve.
 
 ---- 
