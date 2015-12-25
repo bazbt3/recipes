@@ -6,6 +6,7 @@ The categories:
 * [Pancakes](/Pancakes/)
 * [Pies](/Pies/)
 * [Sandwiches](/Sandwiches/)
+* [Seasonal](/Seasonal/)
 * [Wraps](/Wraps/)
 
 <br>
