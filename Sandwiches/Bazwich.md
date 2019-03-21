@@ -25,4 +25,4 @@ Heavily UK-biased: (with rest-of-the-world explanations parenthesised):
 
 Have you booked your place at the local A&E (US: ER)?
 
-[Basic recipe is decades-old, reposted here from Google+ for posterity.]
+[Basic recipe is decades-old, reposted here from Google+ for posterity.]
